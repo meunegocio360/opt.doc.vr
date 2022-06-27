@@ -5,8 +5,12 @@
 ### URL
 LinkBehaviour_0C634A30_103E_46E8_41A4_ED37761C7680.source = http://www.loremipsum.com
 LinkBehaviour_0A789AD8_06A6_48BF_4187_06BD505DE567.source = http://www.loremipsum.com
-WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+LinkBehaviour_93FA7188_A3BE_0EAE_41E3_5A599F9A76C2.source = https://www.instagram.com/meunegocioweb360/
+LinkBehaviour_920D98A1_A3B2_3E9F_41DA_1A91048B7E74.source = https://www.instagram.com/meunegocioweb360/
+LinkBehaviour_91779EB0_A3BE_32FE_41B8_AFE274E552BB.source = https://www.instagram.com/opt.doc/
+LinkBehaviour_9267AF1C_A3B2_13A6_41C0_24AAB0DB7FBF.source = https://www.instagram.com/opt.doc/
 PopupWebFrameBehaviour_0CA4D343_1022_C6AF_41AD_706692BA2EB3.url = https://www.optdoc.com.br/links/nossos-contatos/
 PopupWebFrameBehaviour_0C693A1A_103E_46D8_4198_EA50F1CAB1D9.url = https://www.optdoc.com.br/links/nossos-contatos/
 
@@ -103,8 +107,8 @@ panorama_0509A2EB_0BAF_CBB2_418E_0FDF2945A9C3.label = Área externa
 panorama_050F67AB_0BAA_C9B2_419C_F79C4EF6361A.label = Área externa de cima
 
 ### Video
-videolevel_920C7763_A392_7262_41E4_1A38B9A9B207.posterURL = media/video_0A5EFACB_06A6_4891_417E_EC8A04F158D0_poster_pt.jpg
-videolevel_920C7763_A392_7262_41E4_1A38B9A9B207.url = media/video_0A5EFACB_06A6_4891_417E_EC8A04F158D0_pt.mp4
+videolevel_93EE5609_A3BE_35AE_41DD_3432940BF732.posterURL = media/video_0A5EFACB_06A6_4891_417E_EC8A04F158D0_poster_pt.jpg
+videolevel_93EE5609_A3BE_35AE_41DD_3432940BF732.url = media/video_0A5EFACB_06A6_4891_417E_EC8A04F158D0_pt.mp4
 
 ## Right Click Menu
 
@@ -140,24 +144,26 @@ Image_16B75461_1B87_4970_41B9_4F94F65FB1C1_mobile.url = skin/Image_16B75461_1B87
 Image_16B75461_1B87_4970_41B9_4F94F65FB1C1.url = skin/Image_16B75461_1B87_4970_41B9_4F94F65FB1C1_pt.jpg
 Image_182FD4E7_17B7_EF41_41AA_D495544C1972_mobile.url = skin/Image_182FD4E7_17B7_EF41_41AA_D495544C1972_mobile_pt.jpg
 Image_182FD4E7_17B7_EF41_41AA_D495544C1972.url = skin/Image_182FD4E7_17B7_EF41_41AA_D495544C1972_pt.jpg
+Image_8D9E6DB9_A3B2_16EE_41CF_82FFC7BC5E72.url = skin/Image_8D9E6DB9_A3B2_16EE_41CF_82FFC7BC5E72_pt.png
+Image_938AB721_A3B2_139E_41C3_9E748266C275.url = skin/Image_938AB721_A3B2_139E_41C3_9E748266C275_pt.png
 Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile.url = skin/Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile_pt.png
 Image_9511127C_9B79_D2C1_41D8_D080B87BFD84.url = skin/Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_pt.png
 
 ### Multiline Text
 HTMLText_386DF8AA_17CC_0B05_41AE_D7BDB2970D08_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.420000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:8.42vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.360000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.36vh;font-family:'Oswald';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.3000000000000007vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.3vh;font-family:'Oswald Regular';">Dolor sit amet, consectetur adipiscing elit. Nunc porttitor ac nulla vitae bibendum.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.64vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.64vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.64vh;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.64vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.64vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.64vh;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.64vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 HTMLText_386DF8AA_17CC_0B05_41AE_D7BDB2970D08.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.420000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:8.42vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.360000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.36vh;font-family:'Oswald';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.3000000000000007vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.3vh;font-family:'Oswald Regular';">Dolor sit amet, consectetur adipiscing elit. Nunc porttitor ac nulla vitae bibendum.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.64vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.64vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.64vh;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.64vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.64vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.64vh;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.64vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_245BDB6E_173C_0D1A_41AA_78BDF4EE53FF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>FLOORPLAN/</B></SPAN></SPAN></DIV></div>
-HTMLText_245BDB6E_173C_0D1A_41AA_78BDF4EE53FF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>FLOORPLAN/</B></SPAN></SPAN></DIV></div>
-HTMLText_2792D64D_17CC_071F_4198_A70438B191B7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>LOCATION/</B></SPAN></SPAN></DIV></div>
-HTMLText_2792D64D_17CC_071F_4198_A70438B191B7_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>LOCATION/</B></SPAN></SPAN></DIV></div>
-HTMLText_3811C7E8_17DC_0505_4199_1B551680AC34_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>PANORAMA LIST/</B></SPAN></SPAN></DIV></div>
-HTMLText_3811C7E8_17DC_0505_4199_1B551680AC34.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>PANORAMA LIST/</B></SPAN></SPAN></DIV></div>
-HTMLText_20ECF7A3_174C_050A_41A5_0B8AD2C6B179_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>PHOTOALBUM/</B></SPAN></SPAN></DIV></div>
-HTMLText_20ECF7A3_174C_050A_41A5_0B8AD2C6B179.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>PHOTOALBUM/</B></SPAN></SPAN></DIV></div>
+HTMLText_245BDB6E_173C_0D1A_41AA_78BDF4EE53FF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.6099999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>FLOORPLAN/</B></SPAN></SPAN></DIV></div>
+HTMLText_245BDB6E_173C_0D1A_41AA_78BDF4EE53FF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.6099999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>FLOORPLAN/</B></SPAN></SPAN></DIV></div>
+HTMLText_2792D64D_17CC_071F_4198_A70438B191B7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.6099999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>LOCATION/</B></SPAN></SPAN></DIV></div>
+HTMLText_2792D64D_17CC_071F_4198_A70438B191B7_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.6099999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>LOCATION/</B></SPAN></SPAN></DIV></div>
+HTMLText_3811C7E8_17DC_0505_4199_1B551680AC34_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.6099999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>PANORAMA LIST/</B></SPAN></SPAN></DIV></div>
+HTMLText_3811C7E8_17DC_0505_4199_1B551680AC34.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.6099999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>PANORAMA LIST/</B></SPAN></SPAN></DIV></div>
+HTMLText_20ECF7A3_174C_050A_41A5_0B8AD2C6B179_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.6099999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>PHOTOALBUM/</B></SPAN></SPAN></DIV></div>
+HTMLText_20ECF7A3_174C_050A_41A5_0B8AD2C6B179.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.6099999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>PHOTOALBUM/</B></SPAN></SPAN></DIV></div>
 HTMLText_1830E20E_17B1_6AC3_419B_A422A7600CB2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.920000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:4.92vh;font-family:'Oswald';"><B>______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.360000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.36vh;font-family:'Oswald';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.3000000000000007vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.3vh;font-family:'Oswald Regular';"><B>Dolor sit amet, consectetur adipiscing elit. Nunc porttitor ac nulla vitae.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.75vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7499999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.75vh;font-family:'Oswald';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7499999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.75vh;font-family:'Oswald';"><B>info@loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7499999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.75vh;font-family:'Oswald';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7499999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.75vh;font-family:'Oswald';"><B>Address line 1</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7499999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.75vh;font-family:'Oswald';"><B>Address line 2</B></SPAN></SPAN></DIV></div>
 HTMLText_1830E20E_17B1_6AC3_419B_A422A7600CB2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.920000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:4.92vh;font-family:'Oswald';"><B>______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.360000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.36vh;font-family:'Oswald';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.3000000000000007vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.3vh;font-family:'Oswald Regular';"><B>Dolor sit amet, consectetur adipiscing elit. Nunc porttitor ac nulla vitae.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.75vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7499999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.75vh;font-family:'Oswald';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7499999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.75vh;font-family:'Oswald';"><B>info@loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7499999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.75vh;font-family:'Oswald';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7499999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.75vh;font-family:'Oswald';"><B>Address line 1</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7499999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.75vh;font-family:'Oswald';"><B>Address line 2</B></SPAN></SPAN></DIV></div>
-HTMLText_18E36BFE_0FE2_4558_41A1_658E8845B634.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9100000000000024vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.91vh;font-family:'Oswald';"><B>CONSULTÓRIOS/</B></SPAN></SPAN></DIV></div>
-HTMLText_18E36BFE_0FE2_4558_41A1_658E8845B634_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9100000000000024vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.91vh;font-family:'Oswald';"><B>CONSULTÓRIOS/</B></SPAN></SPAN></DIV></div>
+HTMLText_18E36BFE_0FE2_4558_41A1_658E8845B634.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.910000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.91vh;font-family:'Oswald';"><B>CONSULTÓRIOS/</B></SPAN></SPAN></DIV></div>
+HTMLText_18E36BFE_0FE2_4558_41A1_658E8845B634_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.910000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.91vh;font-family:'Oswald';"><B>CONSULTÓRIOS/</B></SPAN></SPAN></DIV></div>
 
 ## Tour
 
@@ -170,54 +176,54 @@ tour.name = OPT.DOC - Tour Virtual 360°
 ## VR Menu
 
 ### Text
-MenuItem_8D2C5EDD_A392_12A6_41D2_768F4F749C23.label = 1
-MenuItem_8D2CEEDD_A392_12A6_41DC_4EB5DFD91BC0.label = 2
-MenuItem_8D2DBEDD_A392_12A6_41DC_C44889A52240.label = 3
-MenuItem_8D2FEEDE_A392_12A2_41D6_F89ECAA19DD9.label = 4
-MenuItem_8D2CBEDE_A392_12A2_41E3_6856D31C4032.label = 5
-MenuItem_8D2FAEDE_A392_12A2_41E2_2D509B6EEFEB.label = Administração
-MenuItem_8D2D7EDD_A392_12A6_41CD_D9118F91E91B.label = Café 1
-MenuItem_8D2C2EDE_A392_12A2_41E2_8EB649415BB3.label = Café 2
-MenuItem_8D2CCEDE_A392_12A2_41BC_1BF0035853B2.label = Consultorio 9
-MenuItem_8D2C1EDD_A392_12A6_41C6_B9C195CC545B.label = Consultório 1
-MenuItem_8D2C2EDE_A392_12A2_41E0_61CBBC1B6E37.label = Consultório 10
-MenuItem_8D2DFEDD_A392_12A6_41CE_866E439002C4.label = Consultório 11
-MenuItem_8D2D6EDD_A392_12A6_41D0_FD03F7B83AE0.label = Consultório 12
-MenuItem_8D2C5EDE_A392_12A2_41A0_C95FE1B65547.label = Consultório 13
-MenuItem_8D2C8EDE_A392_12A2_41E2_9C4A1313748E.label = Consultório 13
-MenuItem_8D2FBEDE_A392_12A2_41C2_4FE8470B3783.label = Consultório 14
-MenuItem_8D2C8EDD_A392_12A6_41E0_790BA166CEDB.label = Consultório 15
-MenuItem_8D2C0EDD_A392_12A6_41E2_E16B4A2F2349.label = Consultório 15
-MenuItem_8D2DDEDD_A392_12A6_41C9_E30134B054C3.label = Consultório 16
-MenuItem_8D2CDEDE_A392_12A2_41CA_C98E2E7BFA56.label = Consultório 17
-MenuItem_8D2C3EDE_A392_12A2_41DD_BD167CCE3001.label = Consultório 18
-MenuItem_8D2CBEDD_A392_12A6_41D2_219F57644693.label = Consultório 19
-MenuItem_8D2C9EDD_A392_12A6_41D1_61A77301E772.label = Consultório 2
-MenuItem_8D2D2EDD_A392_12A6_41E1_CED82D52EC91.label = Consultório 20
-MenuItem_8D2CFEDE_A392_12A2_41E3_9EEC0CC01B10.label = Consultório 3
-MenuItem_8D2C4EDD_A392_12A6_41D3_C5153B2E35BD.label = Consultório 5
-MenuItem_8D2D3EDD_A392_12A6_41D4_25C98E009068.label = Consultório 6
-MenuItem_8D2D9EDD_A392_12A6_41E4_4CE018855351.label = Consultório 7
-MenuItem_8D2C4EDE_A392_12A2_41B3_1404A490D592.label = Consultório 8
-MenuItem_8D2F4EDE_A392_12A2_41DA_D753356AD396.label = Corredor das 1 e 2
-MenuItem_8D2CFEDD_A392_12A6_41DA_BC5A15F4B1D3.label = Corredor de cima 1
-MenuItem_8D2D8EDD_A392_12A6_41DE_CAA41749E83D.label = Corredor de cima 10
-MenuItem_8D2CAEDD_A392_12A6_41D0_02A4E1BD0E57.label = Corredor de cima 2
-MenuItem_8D2D5EDD_A392_12A6_41C4_FD0491A12A65.label = Corredor de cima 3
-MenuItem_8D2D0EDD_A392_12A6_41B4_740B1FC43648.label = Corredor de cima 4
-MenuItem_8D2DAEDD_A392_12A6_41B3_ED63E17D284D.label = Corredor de cima 5
-MenuItem_8D2FDEDE_A392_12A2_41C8_4C42789DD72F.label = Corredor de cima 6
-MenuItem_8D2CAEDE_A392_12A2_41D0_E2B6EA8E258A.label = Corredor de cima 7
-MenuItem_8D2C7EDE_A392_12A2_41C1_522225130BE5.label = Corredor de cima 8
-MenuItem_8D2FFEDE_A392_12A2_41DB_650B4AA72477.label = Corredor de cima 9
-MenuItem_8D2DEEDD_A392_12A6_41DA_9EEBB51C1B83.label = Corredor dos armários 1
-MenuItem_8D2C6EDE_A392_12A2_41B7_15443F10F959.label = Corredor dos armários 2
-MenuItem_8D2FCEDE_A392_12A2_41C2_4A76E8FF4F38.label = Corredor dos armários 3
-MenuItem_8D2C0EDE_A392_12A2_41D2_D45CC49067C8.label = Drone
-MenuItem_8D2C6EDD_A392_12A6_41D8_2FB16B11D50C.label = Espaço para curso
-MenuItem_8D2DCEDD_A392_12A6_41C9_F3946C9E84C4.label = Esterelização
-MenuItem_8D2F9EDE_A392_12A2_41D1_F88C6156F160.label = Fachada
+MenuItem_92290D64_A3BE_3666_41C1_DA233D5D0093.label = 1
+MenuItem_92291D64_A3BE_3666_41CB_4E587E078A0E.label = 2
+MenuItem_922ADD64_A3BE_3666_41D2_8C2CEC2963AE.label = 3
+MenuItem_922B5D63_A3BE_3662_41CF_752FBC765B92.label = 4
+MenuItem_922ABD63_A3BE_3662_41DC_16DEC12E7F7C.label = 5
+MenuItem_9229CD64_A3BE_3666_41D4_0B73A1A2D7FE.label = Administração
+MenuItem_922A4D64_A3BE_3666_41CA_8BEA41026691.label = Café 1
+MenuItem_922A7D64_A3BE_3666_41E2_62D7259A1659.label = Café 2
+MenuItem_922B8D63_A3BE_3662_41D0_066CDC68C520.label = Consultorio 9
+MenuItem_922B9D63_A3BE_3662_41D3_3EF7434F309E.label = Consultório 1
+MenuItem_922C5D63_A3BE_3662_41C1_A65F931FE31A.label = Consultório 10
+MenuItem_92296D64_A3BE_3666_41C0_5D39A903534C.label = Consultório 11
+MenuItem_92293D64_A3BE_3666_41D8_4D927206EB8D.label = Consultório 12
+MenuItem_9229AD64_A3BE_3666_41D3_6DE8BBF365CC.label = Consultório 13
+MenuItem_9229DD64_A3BE_3666_41B0_E04D8617C7E4.label = Consultório 13
+MenuItem_922B0D63_A3BE_3662_41D0_6D58908C7B7F.label = Consultório 14
+MenuItem_92297D64_A3BE_3666_41C2_0C672FB5C6EC.label = Consultório 15
+MenuItem_922A3D64_A3BE_3666_41BD_A06AA1354419.label = Consultório 15
+MenuItem_922A1D64_A3BE_3666_41D0_A56BBF6A16BE.label = Consultório 16
+MenuItem_922BDD63_A3BE_3662_41E3_7F921D5B0E97.label = Consultório 17
+MenuItem_922A6D64_A3BE_3666_41D5_F85250F2691D.label = Consultório 18
+MenuItem_922A2D64_A3BE_3666_41AA_8C369CF0BA09.label = Consultório 19
+MenuItem_922C1D63_A3BE_3662_41D6_0907265F39DB.label = Consultório 2
+MenuItem_922A3D64_A3BE_3666_41D4_0120763EC8CB.label = Consultório 20
+MenuItem_9229BD64_A3BE_3666_41E0_D3784181C8E8.label = Consultório 3
+MenuItem_922AAD63_A3BE_3662_41BB_9B633ABF0C40.label = Consultório 5
+MenuItem_922B2D63_A3BE_3662_41C5_0F96A1248685.label = Consultório 6
+MenuItem_922BFD63_A3BE_3662_41D6_31F963D7FE08.label = Consultório 7
+MenuItem_922BCD63_A3BE_3662_41DE_97841F0D3347.label = Consultório 8
+MenuItem_922BAD63_A3BE_3662_41DC_DD531FC0F5A0.label = Corredor das 1 e 2
+MenuItem_922A5D64_A3BE_3666_41AA_A01B6AE4831C.label = Corredor de cima 1
+MenuItem_922BBD63_A3BE_3662_41C0_17756D08756A.label = Corredor de cima 10
+MenuItem_92299D64_A3BE_3667_41D8_1D839E01F96E.label = Corredor de cima 2
+MenuItem_922A1D64_A3BE_3666_41B7_B68FB01D6092.label = Corredor de cima 3
+MenuItem_922A2D64_A3BE_3666_41E0_4AC0E3C9777D.label = Corredor de cima 4
+MenuItem_922AFD64_A3BE_3666_41E0_327360236E08.label = Corredor de cima 5
+MenuItem_922B6D63_A3BE_3662_4198_0E69EF9DC0D6.label = Corredor de cima 6
+MenuItem_922B3D63_A3BE_3662_41E3_47DDDFC56B99.label = Corredor de cima 7
+MenuItem_9229ED64_A3BE_3666_41E1_5AA242AAA5BD.label = Corredor de cima 8
+MenuItem_922B7D63_A3BE_3662_41B3_EFD3C16778C8.label = Corredor de cima 9
+MenuItem_922A0D64_A3BE_3666_41DF_ABDAAFC81E97.label = Corredor dos armários 1
+MenuItem_92294D64_A3BE_3666_4179_49A036E75B17.label = Corredor dos armários 2
+MenuItem_922A0D64_A3BE_3666_41B6_721F0C2EA214.label = Corredor dos armários 3
+MenuItem_922C0D63_A3BE_3662_41C6_DA20D51F0457.label = Drone
+MenuItem_92298D64_A3BE_3666_41E1_552BCA0A3024.label = Espaço para curso
+MenuItem_922A9D63_A3BE_3662_41D2_9FEF99E8F2F3.label = Esterelização
+MenuItem_922A5D64_A3BE_3666_41D8_C6AD9A309591.label = Fachada
 Menu_89C3B2B5_A3FE_12E6_41D4_0BDD05C6CDE2.label = Media
-MenuItem_8D2CDEDD_A392_12A6_41C3_D6324D36FD47.label = Raio-X
-MenuItem_8D2C9EDE_A392_12A2_41DE_4921F19FA96B.label = Área externa
-MenuItem_8D2C3EDE_A392_12A2_41B1_D90DD291707C.label = Área externa de cima
+MenuItem_922A7D64_A3BE_3666_41C3_CF7C86262313.label = Raio-X
+MenuItem_92292D64_A3BE_3666_41DE_00F4E5442988.label = Área externa
+MenuItem_922C7D63_A3BE_3662_41B4_DB10FC910155.label = Área externa de cima
